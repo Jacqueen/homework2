@@ -1,0 +1,14 @@
+title {
+background-color:yellow;
+text-color:blue;
+text-align:center;
+}
+
+h1{
+background-color:rgba(255, 255, 255, 0.9);
+font-family:"Arial";
+}
+p{
+font-size:20px;
+font-family:"cursive";
+}
