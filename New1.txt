@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> this is my homework numeros 2</title>
+</head>
+<body>
+<h1> we are getting used to it mate! </h1>
+<p>
+I'm out of  ideas lol!
+</p>
+</body>
+</html>
