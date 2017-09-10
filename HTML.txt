@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+       <title>Programming is so cool!!</title>
+    </head>
+ 
+ <body>
+    <p>Programming has always been my passion. I adore it for the following reasons..</p>
+         <ol>
+                 <li>It makes me more creative.</li>
+                         <li>It expands my imagination.</li>
+                 <li>It's fun, relaxing and satisfying.</li>
+         </ol>
+ <p>To know more about programming please do not hesitate and click <a href="https://www.codecademy.com/learn">here!</a></p>
+   </html>
