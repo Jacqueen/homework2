@@ -1,5 +1,5 @@
 var myAge = function(year, yearOfBirth)
-{ var age = (year - yearOofBirth);
+{ var age = (year - yearOfBirth);
 return age;
 };
 var result = myAge(2017,1999);
